@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cloudify/static/css/main.44cb3e86.chunk.css",
+    "main.js": "/Cloudify/static/js/main.23d8e100.chunk.js",
+    "main.js.map": "/Cloudify/static/js/main.23d8e100.chunk.js.map",
+    "runtime-main.js": "/Cloudify/static/js/runtime-main.6b92c5a1.js",
+    "runtime-main.js.map": "/Cloudify/static/js/runtime-main.6b92c5a1.js.map",
+    "static/js/2.3f322e6f.chunk.js": "/Cloudify/static/js/2.3f322e6f.chunk.js",
+    "static/js/2.3f322e6f.chunk.js.map": "/Cloudify/static/js/2.3f322e6f.chunk.js.map",
+    "index.html": "/Cloudify/index.html",
+    "precache-manifest.38d08d1199f4ad05688294f6de5732d2.js": "/Cloudify/precache-manifest.38d08d1199f4ad05688294f6de5732d2.js",
+    "service-worker.js": "/Cloudify/service-worker.js",
+    "static/css/main.44cb3e86.chunk.css.map": "/Cloudify/static/css/main.44cb3e86.chunk.css.map",
+    "static/js/2.3f322e6f.chunk.js.LICENSE.txt": "/Cloudify/static/js/2.3f322e6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b92c5a1.js",
+    "static/js/2.3f322e6f.chunk.js",
+    "static/css/main.44cb3e86.chunk.css",
+    "static/js/main.23d8e100.chunk.js"
+  ]
+}
