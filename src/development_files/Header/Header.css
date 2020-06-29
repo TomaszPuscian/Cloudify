@@ -1,0 +1,35 @@
+header {
+    display: flex;
+    background: linear-gradient(to right, rgb(0, 176, 155), rgb(150, 201, 61))
+}
+
+.header--container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 80px;
+}
+
+#sub-logo {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.logo, #sub-logo {
+    color: #383A3F;
+}
+
+.connect-user--button {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.img--header {
+    background-image: url("../../images/1399995805.svg")
+}
+
+
+
+
