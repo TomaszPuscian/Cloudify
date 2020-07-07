@@ -5,7 +5,9 @@ import {SpotifyApiFetch} from "../SpotifyApiFetch";
 const WeatherForSpotify = ({weatherObj}) => {
     console.log("bbbb", weatherObj)
 
-    const sunnyWeather = weatherObj.data.instant.details.air_temperature > 15 && weatherObj.data.instant.details.cloud_area_fraction < 80 && weatherObj.data.next_1_hours.details.precipitation_amount <= 0.05
+    const sunnyWeather = weatherObj.data.instant.details.air_temperature > 15 &&
+        weatherObj.data.instant.details.cloud_area_fraction < 80 &&
+        weatherObj.data.next_1_hours.details.precipitation_amount <= 0.05
 
     return (
         <>
