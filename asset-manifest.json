@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/Cloudify/static/css/main.44cb3e86.chunk.css",
-    "main.js": "/Cloudify/static/js/main.23d8e100.chunk.js",
-    "main.js.map": "/Cloudify/static/js/main.23d8e100.chunk.js.map",
-    "runtime-main.js": "/Cloudify/static/js/runtime-main.6b92c5a1.js",
-    "runtime-main.js.map": "/Cloudify/static/js/runtime-main.6b92c5a1.js.map",
-    "static/js/2.3f322e6f.chunk.js": "/Cloudify/static/js/2.3f322e6f.chunk.js",
-    "static/js/2.3f322e6f.chunk.js.map": "/Cloudify/static/js/2.3f322e6f.chunk.js.map",
+    "main.css": "/Cloudify/static/css/main.db82bd63.chunk.css",
+    "main.js": "/Cloudify/static/js/main.d4e4c425.chunk.js",
+    "main.js.map": "/Cloudify/static/js/main.d4e4c425.chunk.js.map",
+    "runtime-main.js": "/Cloudify/static/js/runtime-main.beab7a3f.js",
+    "runtime-main.js.map": "/Cloudify/static/js/runtime-main.beab7a3f.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Cloudify/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c125dcb6.chunk.js": "/Cloudify/static/js/2.c125dcb6.chunk.js",
+    "static/js/2.c125dcb6.chunk.js.map": "/Cloudify/static/js/2.c125dcb6.chunk.js.map",
     "index.html": "/Cloudify/index.html",
-    "precache-manifest.38d08d1199f4ad05688294f6de5732d2.js": "/Cloudify/precache-manifest.38d08d1199f4ad05688294f6de5732d2.js",
+    "precache-manifest.1548780899dd1113668778bd50540da6.js": "/Cloudify/precache-manifest.1548780899dd1113668778bd50540da6.js",
     "service-worker.js": "/Cloudify/service-worker.js",
-    "static/css/main.44cb3e86.chunk.css.map": "/Cloudify/static/css/main.44cb3e86.chunk.css.map",
-    "static/js/2.3f322e6f.chunk.js.LICENSE.txt": "/Cloudify/static/js/2.3f322e6f.chunk.js.LICENSE.txt"
+    "static/css/2.af3c1da9.chunk.css.map": "/Cloudify/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.db82bd63.chunk.css.map": "/Cloudify/static/css/main.db82bd63.chunk.css.map",
+    "static/js/2.c125dcb6.chunk.js.LICENSE.txt": "/Cloudify/static/js/2.c125dcb6.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/Cloudify/static/media/1399995805.fb704ec2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b92c5a1.js",
-    "static/js/2.3f322e6f.chunk.js",
-    "static/css/main.44cb3e86.chunk.css",
-    "static/js/main.23d8e100.chunk.js"
+    "static/js/runtime-main.beab7a3f.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c125dcb6.chunk.js",
+    "static/css/main.db82bd63.chunk.css",
+    "static/js/main.d4e4c425.chunk.js"
   ]
 }
