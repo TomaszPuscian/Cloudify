@@ -1,5 +1,5 @@
 import React from "react";
-import {SpotifyApiFetch} from "../SpotifyApiFetch";
+import {SpotifyApiFetch} from "../SpotifyApiFetch/SpotifyApiFetch";
 
 
 const WeatherForSpotify = ({weatherObj}) => {

@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from "react";
-import {WeatherForSpotify} from "./WeatherForSpotify";
-import {WeatherDisplay} from "./WeatherDisplay";
+import WeatherForSpotify from "../WeatherForSpotify";
+import WeatherDisplay from "../WeatherDisplay";
 import "./WeatherApiFetch.css"
 
 
@@ -30,7 +30,6 @@ const WeatherApiFetch = ({latitude, longtitude}) => {
                 <WeatherDisplay weatherObj={weatherObjectReady}/>
                 <div className="playlist">Playlist for you:</div>
                 <WeatherForSpotify weatherObj={weatherObjectReady}/>
-
             </>
     )}
 }

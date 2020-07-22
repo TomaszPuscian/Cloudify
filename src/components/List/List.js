@@ -1,6 +1,6 @@
 import React from "react";
 
-const exampleList = [
+export const exampleList = [
     "6OE7voRcEvrBPDl7wqjn4D",
     "7DGUTJ95j1ofMbIzHlvLVd",
     "1EXxPmxmFZyFlY6ogfuj1n",
@@ -12,5 +12,5 @@ const exampleList = [
     "2yjSMIxii1fcnrf1R9tU4g"
 ]
 
-export {exampleList}
+
 
