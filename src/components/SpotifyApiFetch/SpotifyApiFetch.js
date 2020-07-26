@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from "react";
 import {Playlist, SpotifyApiContext, TrackFeatures} from "react-spotify-api";
-import {exampleList} from "./List";
-import {WeatherTracks} from "./WeatherTracks";
+import {exampleList} from "../List/List";
+import WeatherTracks from "../WeatherTracks";
 
 const SpotifyApiFetch = ({sunnyWeather}) => {
     const [token, setToken] = useState('');

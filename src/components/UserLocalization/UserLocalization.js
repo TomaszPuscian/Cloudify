@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import {WeatherApiFetch} from "./weather/WeatherApiFetch";
+import WeatherApiFetch from "../WeatherApiFetch";
 
 const UserLocalization = () => {
     const [latitude, setLatitude] = useState('');
